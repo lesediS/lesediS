@@ -1,7 +1,8 @@
 # The Earth says hello!
 <br/>
 
-<img width="300" height="200" src="https://user-images.githubusercontent.com/106717766/178714291-64483f0c-3130-4302-9f4f-21689c846d9e.png">
+<img width="300" height="200" src="https://64.media.tumblr.com/c0100c98e3e3434bf58c81f8d59bf970/f982e280585dcd09-de/s500x750/2456b6c24969e33ba129f4488a66049913705e76.gifv">
+
 
 # Lets see...
 
@@ -13,7 +14,7 @@
 - Pro-choice and LGBTQ+ :rainbow_flag: 
 
 <p align="center">
-<img width="300" height="200" src="https://user-images.githubusercontent.com/106717766/178711964-907ed205-7ae9-4ba6-a0a0-e7a38591ef50.png">
+<img width="300" height="200" src="https://64.media.tumblr.com/c25cf2be63196cac1334e344c93305b5/ce252b712341d536-fd/s500x750/2a7e5d8872eeb02872c482de3b247d3d26514ed5.gifv">
 </p>
 
 
@@ -28,3 +29,7 @@
 * React.JS
 * Graphic design
 
+## Find me here!
+
+<a href="https://discordapp.com/users/lookItsADude#4344/ target="blank"><img src="https://img.shields.io/badge<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+         
